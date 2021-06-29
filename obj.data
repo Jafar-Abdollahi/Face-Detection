@@ -1,0 +1,7 @@
+classes = 2
+train  = /content/drive/My\ Drive/Recognation-Face/train.txt
+valid  = /content/drive/My\ Drive/Recognation-Face/test.txt
+names = /content/drive/My\ Drive/Recognation-Face/obj.names
+backup = /content/drive/My\ Drive/Recognation-Face/backup/
+
+
